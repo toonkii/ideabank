@@ -23,4 +23,4 @@ What does it take to bring an idea to fruition? Research this.
 
 Git like facility to keep the history of the conversations, provide for cloning, versioning/tagging, releasing, branching, collaboration. All sorts of things that we do indeveloping software.
 
-# Idea Proof Of Concept - Dr. app to notify you of when you will be seen.
+### Idea Proof Of Concept - Dr. app to notify you of when you will be seen.
