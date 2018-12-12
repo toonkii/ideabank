@@ -21,6 +21,8 @@ What does it take to bring an idea to fruition? Research this.
 
 ## Technology
 
-Git like facility to keep the history of the conversations, provide for cloning, versioning/tagging, releasing, branching, collaboration. All sorts of things that we do indeveloping software.
+1. Git like facility to keep the history of the conversations, provide for cloning, versioning/tagging, releasing, branching, collaboration. All sorts of things that we do in developing software.
+
+1. Use blockchain to keep track of who suggested what in an immutable manner.
 
 ### Idea Proof Of Concept - Dr. app to notify you of when you will be seen.
