@@ -15,7 +15,7 @@ An idea store to capture ideas of all kinds by persons of all kinds on any topic
 
 What benefit can a system like this bring to paid up subscribers. Will need some sort of a brainstorming facility, mind maps, whiteboard and whiteboard capture.
 
-What will keep bring people back?
+What will keep bringing people back?
 
 What does it take to bring an idea to fruition? Research this.
 
